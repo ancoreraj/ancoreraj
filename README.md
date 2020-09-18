@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Ankur Raj.
+## I am Ankur Raj.
 
 ### I am a 2nd year under-grad from National Institute of Technology, Agartala. I am a full-stack developer, currently working on a few open source projects.
 
