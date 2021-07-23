@@ -3,11 +3,18 @@
 
 ### I am a 2nd year under-grad from National Institute of Technology, Agartala. I am a full-stack developer.
 
+<h2>Github Stats</h2>
+<p align="center">
+ 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ancoreraj&theme=dark)](https://git.io/streak-stats)
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ancoreraj&show_icons=true&locale=en&theme=tokyonight" alt="@ancoreraj" />
+</p>
 
 #### Tech Stacks -
 
 ###### Learning
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
 
 
 ###### MERN Stack
