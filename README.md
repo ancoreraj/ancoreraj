@@ -2,7 +2,7 @@
 ## I am Ankur Raj.
 
 ### I am a 3nd year under-grad from National Institute of Technology, Agartala. I am a full-stack developer.
-### My experties is in Nodejs, Reactjs, Mongodb, PostgreSQL, GraphQl
+### My experties is in Nodejs, Reactjs, Mongodb, PostgreSQL, GraphQl.
 
 <h2>Github Stats</h2>
 <p align="center">
