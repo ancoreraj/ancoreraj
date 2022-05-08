@@ -1,14 +1,12 @@
 ### Hi there 👋
 ## I am Ankur Raj.
 
-### I am a 3nd year under-grad from National Institute of Technology, Agartala. I am a full-stack developer.
-### My experties is in Nodejs, Reactjs, Mongodb, PostgreSQL, GraphQl.
+#### I am a 3nd year under-grad from National Institute of Technology, Agartala. I am a full-stack developer.
+#### My experties is in Nodejs, Reactjs, Mongodb, PostgreSQL, GraphQl.
 
 <h2>Github Stats</h2>
-<p align="center">
+<p>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ancoreraj&show_icons=true&locale=en&theme=tokyonight" alt="@ancoreraj" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ancoreraj&theme=dark)](https://git.io/streak-stats)
-  &nbsp;
 </p>
 
 #### Tech Stacks -
