@@ -5,7 +5,7 @@
 <p><b>👨‍💻 But my love for backend development is more than anything else.</b></p>
 <p><b>🚀 I learn new things by creating as many side projects as possible.</b></p>
 
-<img align="right" width="28px" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" />
+<img align="right" width="28px" src="https://raw.githubusercontent.com/ancoreraj/ancoreraj/master/ezgif-1-3d7fc3ad61.gif" />
 <h2>Github Stats</h2>
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ancoreraj&show_icons=true&locale=en&theme=tokyonight" alt="@ancoreraj" />
