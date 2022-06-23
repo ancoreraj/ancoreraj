@@ -1,22 +1,18 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/ankur-raj-/">Ankur</a></h2>
 <img align="right" width="28px" src="https://raw.githubusercontent.com/ancoreraj/ancoreraj/master/ezgif-1-3d7fc3ad61.gif" />
-<div style="display:flex flex-direction:column align-items:center">
- <div>
+
 <p><b>📝 I'm final year undergrad from National Institute of Technology, Agartala</b></p>
 <p><b>🔭 I am experienced in MERN stack development.</b></p>
 <p><b>👨‍💻 But my love for backend development is more than anything else.</b></p>
 <p><b>🚀 I learn new things by creating as many side projects as possible.</b></p>
-  </div>
- 
-</div>
-<div>
+
 <h2>Github Stats</h2>
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ancoreraj&show_icons=true&locale=en&theme=tokyonight" alt="@ancoreraj" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ancoreraj&show_icons=true&locale=en&theme=tokyonight" alt="@ancoreraj" />
 </p>
 </div>
 
-### 💪 Languages that I know &nbsp;
+<h2>💪 Languages that I know </h2>
 
 <br />
 
@@ -24,7 +20,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -34,7 +29,6 @@
 <br/>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) &nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) &nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) &nbsp;
@@ -45,8 +39,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
-
-
 
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ankur-raj-/) 
