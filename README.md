@@ -5,10 +5,10 @@
 <p><b>👨‍💻 But my love for backend development is more than anything else.</b></p>
 <p><b>🚀 I learn new things by creating as many side projects as possible.</b></p>
 
-<img align="right" width="280px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" width="28px" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" />
 <h2>Github Stats</h2>
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ancoreraj&show_icons=true&locale=en&theme=tokyonight" alt="@ancoreraj" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=ancoreraj&show_icons=true&locale=en&theme=tokyonight" alt="@ancoreraj" />
 </p>
 
 
