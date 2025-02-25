@@ -1,4 +1,4 @@
-<img align="right" width="28px" src="https://raw.githubusercontent.com/ancoreraj/ancoreraj/master/ezgif-1-3d7fc3ad61.gif" />
+<img align="right" width="280px" src="https://raw.githubusercontent.com/ancoreraj/ancoreraj/master/ezgif-1-3d7fc3ad61.gif" />
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/ankur-raj-/">Ankur</a></h2>
 
 
