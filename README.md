@@ -1,5 +1,6 @@
-<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/ankur-raj-/">Ankur</a></h2>
 <img align="right" width="28px" src="https://raw.githubusercontent.com/ancoreraj/ancoreraj/master/ezgif-1-3d7fc3ad61.gif" />
+<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/ankur-raj-/">Ankur</a></h2>
+
 
 <p><b>📝 I'm final year undergrad from National Institute of Technology, Agartala</b></p>
 <p><b>🔭 I am experienced in MERN stack development.</b></p>
